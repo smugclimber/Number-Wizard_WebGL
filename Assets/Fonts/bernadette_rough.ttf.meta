@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4d89835f10e43a7429fab63903b7dae3
+timeCreated: 1485899618
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bernadette Rough
+  fontNames:
+  - Bernadette Rough
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
